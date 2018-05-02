@@ -7,6 +7,7 @@
 #To start this project you have to do the thing step by step using saperate sensor
 
 $1. DS18B20 Sensor
+
 #This sensor is for monitoring Temperature in Celsius and Fahrenheit.
 ABOUT THE DS18B20
 The DS18B20 communicates with the “One-Wire” communication protocol, 
@@ -60,3 +61,13 @@ Here the temperature reading is t=28625, which means a temperature of 28.625 deg
 NO GO TO RASPBERRY PI Command prompt and type 
 
 $ python Tempcelfah.py  Enter
+
+For more visit : http://www.circuitbasics.com/raspberry-pi-ds18b20-temperature-sensor-tutorial/
+
+$2. DHT22 (Humidity and Temperature degree celsius)
+
+###Introduction
+
+Not another blog with a Pi and a temperature-humidity sensor you think. But wait, this is different. This includes Eon, which gives you the power to view those sensor readings in a beautiful graph that updates itself in real time; from anywhere in the world, and just a few lines of code. Who doesnt love a great visualization notifying you in real time!!? Real time dashboards, its happening!
+
+
